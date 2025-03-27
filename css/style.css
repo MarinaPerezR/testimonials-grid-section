@@ -98,7 +98,8 @@ h1 {
   grid-row: span 3 / span 3;
   background-image: url('/images/bg-pattern-quotation.svg');
   background-repeat: no-repeat;
-  background-position: top right;
+  background-position: top right 15%;
+
 }
 
 .top-center {
